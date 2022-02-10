@@ -1,0 +1,1 @@
+export const PRODUCT_NOT_FOUND:string = 'Product with this id not found';
